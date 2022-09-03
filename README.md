@@ -32,5 +32,5 @@
   
 
 <p align="center">
-    <img src="https://github.com/KnighhtRider/KnighhtRider/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+    <img src="https://github.com/Imran123Ashraf/Imran123Ashraf/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
